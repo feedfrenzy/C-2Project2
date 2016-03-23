@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project2", "Project2.csproj", "{A10CEF52-A439-496D-9CFC-8CF59A5B5E9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeBuilderLibrary", "HomeBuilderLibrary\HomeBuilderLibrary.csproj", "{1866817A-BF30-4533-AD4A-3B959FBDDE64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "Utilities\Utilities.csproj", "{6224A378-EEF4-4EE0-A009-AC8CE1260CB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A10CEF52-A439-496D-9CFC-8CF59A5B5E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A10CEF52-A439-496D-9CFC-8CF59A5B5E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A10CEF52-A439-496D-9CFC-8CF59A5B5E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A10CEF52-A439-496D-9CFC-8CF59A5B5E9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1866817A-BF30-4533-AD4A-3B959FBDDE64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1866817A-BF30-4533-AD4A-3B959FBDDE64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1866817A-BF30-4533-AD4A-3B959FBDDE64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1866817A-BF30-4533-AD4A-3B959FBDDE64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6224A378-EEF4-4EE0-A009-AC8CE1260CB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6224A378-EEF4-4EE0-A009-AC8CE1260CB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6224A378-EEF4-4EE0-A009-AC8CE1260CB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6224A378-EEF4-4EE0-A009-AC8CE1260CB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
